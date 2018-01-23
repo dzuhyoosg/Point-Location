@@ -1,0 +1,72 @@
+/* NAME: Ziyu Song
+ * NET ID: zsong10
+ * ASSIGNMENT: Project #3
+ * LAB SESSION: TR 615-730pm
+ * Collaborator: Sifan Ye (sye8), Qiuyue Sun (qsun15)
+ * COURSE: CSC 172
+ * TA: Nathaniel Potrepka
+ */
+
+SAMPLE OUTPUT:
+From “text.txt”:
+Point: x: 0.25; y: 0.8 and
+Point: x: 0.6; y: 0.5
+They are in the same region
+
+Point: x: 0.95; y: 0.1 and
+Point: x: 0.11; y: 0.5
+They are in the same region
+
+The number of external nodes in the tree is 13
+The external path length of the tree is 50
+The average path length is 3
+
+****************************
+After select two points:
+Point: x: 0.25; y: 0.8 and
+Point: x: 0.6; y: 0.5
+They are in the same region
+
+Point: x: 0.95; y: 0.1 and
+Point: x: 0.11; y: 0.5
+They are in the same region
+
+The number of external nodes in the tree is 13
+The external path length of the tree is 50
+The average path length is 3
+
+Point: x: 0.068; y: 0.586 and 
+Point: x: 0.216; y: 0.456
+They are separated by the line: Function: y = -3.826086956521739x + 0.12
+
+****************************
+From “test.txt”:
+Point: x: 0.4; y: 0.25 and 
+Point: x: 0.69; y: 0.5
+They are separated by the line: Function: y = 0.8539325842696629x + 0.76
+
+Point: x: 0.26; y: 0.68 and
+Point: x: 0.08; y: 0.75
+They are in the same region
+
+The number of external nodes in the tree is 11
+The external path length of the tree is 41
+The average path length is 3
+
+****************************
+After select two points:
+Point: x: 0.4; y: 0.25 and 
+Point: x: 0.69; y: 0.5
+They are separated by the line: Function: y = 0.8539325842696629x + 0.76
+
+Point: x: 0.26; y: 0.68 and
+Point: x: 0.08; y: 0.75
+They are in the same region
+
+The number of external nodes in the tree is 11
+The external path length of the tree is 41
+The average path length is 3
+
+Point: x: 0.488; y: 0.834 and 
+Point: x: 0.468; y: 0.738
+They are separated by the line: Function: y = 0.4777777777777778x + 1.0477777777777777

@@ -1,0 +1,11 @@
+Point: x: 0.4; y: 0.25 and 
+Point: x: 0.69; y: 0.5
+Are separated by the line: Function: y = 0.8539325842696629x + 0.76
+
+Point: x: 0.26; y: 0.68 and
+Point: x: 0.08; y: 0.75
+Are in the same region
+
+The number of external nodes in the tree is 11
+The external path length of the tree is 41
+The average path length is 3
